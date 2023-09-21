@@ -1,0 +1,31 @@
+@import url("null.css");
+
+img {
+	width: 200px;
+}
+p {
+	color: rgb(27, 0, 161);
+}
+.table {
+	color: rgb(0, 202, 13);
+}
+#title6 {
+	color: rgb(239, 0, 195);
+}
+#title1 {
+	color: green;
+}
+a {
+	color: rgb(248, 165, 0);
+}
+#spain {
+	color: rgb(0, 216, 231);
+	font-size: 20px;
+}
+mark {
+	color: rgb(226, 1, 1);
+}
+h1 {
+	font-size: 22px;
+	color: rgb(156, 124, 124);
+}
